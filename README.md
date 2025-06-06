@@ -21,7 +21,7 @@ I’m passionate about human connection in digital spaces. Whether I’m buildin
 - 🔧 **Tools**:  
   `Notion` · `Trello` · `Figma` · `Meta Suite` · `Google Analytics` · `ChatGPT`  
 - 📨 **Email**: henryqx.contact@gmail.com 
-- 🌐 **Portfolio**: https://github.com/Henryqx
+
 ---
 
 ## 🎯 Interests
