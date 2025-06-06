@@ -2,7 +2,7 @@
 
 **Community Architect • Social Media Strategist • UX Tester**
 
-I’m passionate about human connection in digital spaces. Whether I’m building communities, crafting impactful content, or testing platforms before launch — I focus on clarity, emotion, and precision. Let’s just say I notice what others scroll past.  
+I’m passionate about human connection in digital spaces. Whether I’m building communities, crafting impactful content, or testing platforms before launch, I focus on clarity, emotion, and precision. Let’s just say I notice what others scroll past.  
   
 
 ---
@@ -20,9 +20,8 @@ I’m passionate about human connection in digital spaces. Whether I’m buildin
 - 💻 **OS**: Windows (daily driver) + Linux (for testing & tinkering)  
 - 🔧 **Tools**:  
   `Notion` · `Trello` · `Figma` · `Meta Suite` · `Google Analytics` · `ChatGPT`  
-- 📨 **Email**: [your-email@example.com]  
-- 🌐 **Portfolio**: [your-link.com]  
-
+- 📨 **Email**: henryqx.contact@gmail.com 
+- 🌐 **Portfolio**: https://github.com/Henryqx
 ---
 
 ## 🎯 Interests
@@ -42,4 +41,4 @@ I’m passionate about human connection in digital spaces. Whether I’m buildin
 
 ---
 
-**Thanks for stopping by — let’s build something unforgettable. 🚀**
+**Thanks for stopping by, let’s build something unforgettable. 🚀**
